@@ -1,5 +1,9 @@
-[![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq32c6gs6tceepejdowl.png)](https://github.com/melikeisk)
-<h1 align="center">Hi 👋, I'm Melike</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+I'm+Melike+Işık!;" />
+</h1>
+
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/6fc9db7cd1096f7a3f65930286db687a.gif">
 
