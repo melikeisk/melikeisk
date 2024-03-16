@@ -50,5 +50,3 @@
 
 
 <br/>
-
-![snake gif](https://github.com/melikeisk/melikeisk/blob/output/github-contribution-grid-snake.gif)
