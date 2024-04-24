@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melikeisk&label=Profile%20views&color=0e75b6&style=flat" alt="melikeisk" /> </p>
 
-- 🔭 I’m currently working on [ICP-Internship-Projects](https://github.com/melikeisk/ICP-Internship-Projects)
+- 🔭 I’m currently working on JavaScript
 
 - 🌱 I’m currently learning **Motoko**
 
