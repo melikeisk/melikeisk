@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melikeisk&label=Profile%20views&color=0e75b6&style=flat" alt="melikeisk" /> </p>
 
-- 🔭 I’m currently working on JavaScript
+<!-- - 🔭 I’m currently working on JavaScript -->
 
-- 🌱 I’m currently learning **Motoko**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact: **The cost of the cap of a water bottle is higher than the cost of the bottle itself.**
 
