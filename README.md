@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+I'm+Melike+Işık!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/6fc9db7cd1096f7a3f65930286db687a.gif">
 
 
