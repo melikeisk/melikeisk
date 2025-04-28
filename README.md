@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently working on JavaScript -->
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact: **The cost of the cap of a water bottle is higher than the cost of the bottle itself.**
 
