@@ -17,14 +17,14 @@
 
 - ⚡ Fun fact: **The cost of the cap of a water bottle is higher than the cost of the bottle itself.**
 
-<div align="center"> 
+<!--<div align="center"> 
   <a href="mailto:zmelikeisk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/melike-isk-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</div>
+</div>-->
 
  <br/>
 
